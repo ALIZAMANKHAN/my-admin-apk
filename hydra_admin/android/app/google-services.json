@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199337572892",
+    "project_id": "hydra-959ad",
+    "storage_bucket": "hydra-959ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199337572892:android:d89c166ac36cd36ce0fdd9",
+        "android_client_info": {
+          "package_name": "hydra.hydra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs23SnwTWJgTXk0BSYLpZAf3qAjgkRrdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199337572892:android:f0adbbd4be183a0de0fdd9",
+        "android_client_info": {
+          "package_name": "hydra.hydra_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs23SnwTWJgTXk0BSYLpZAf3qAjgkRrdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
